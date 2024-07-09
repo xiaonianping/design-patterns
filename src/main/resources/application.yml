@@ -1,1 +1,3 @@
-spring.application.name=design-patterns
+spring:
+  application:
+    name: design-patterns
